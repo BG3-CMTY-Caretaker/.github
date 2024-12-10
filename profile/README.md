@@ -12,7 +12,7 @@ The following may be considered Proof of Authorship
 
 ### Licensing
 If you have any conditions on how you would like the mod to be developed, please provide a Text or Markdown document for any of the following:
-- A License (ex. MIT, GPL, etc)
+- A License (ex. MIT, GPL, Creative Commons, etc)
 - A code of conduct
 
 ## Picking up mods from the caretaker
