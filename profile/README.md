@@ -8,7 +8,7 @@ If you would like your mod to be hosted here, please contact the BG3 Modding Com
 ### Proof of Authorship 
 The following may be considered Proof of Authorship
 - A Direct Message to one of the BG3MC staff via Nexus Mods
-- (TODO: Determine additional ways)
+- Updating the Mod.io and/or Nexus Mods description, or commenting on it (as the author) that it is being submitted to the BG3 CMTY Caretaker
 
 ### Licensing
 If you have any conditions on how you would like the mod to be developed, please provide a Text or Markdown document for any of the following:
